@@ -1,4 +1,4 @@
-# 
+# Último MEV arbitrage bot scripts para Mac OS | Personalizado MEV arbitrage bot scripts para PC Windows. Con control de deslizamiento y oyentes de eventos — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
